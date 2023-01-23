@@ -1,9 +1,3 @@
-//
-//  AppDelegate.swift
-//  Gitxing
-//
-//
-
 import UIKit
 
 @UIApplicationMain
